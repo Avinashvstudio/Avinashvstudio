@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vundakoti-avinash-489b2a249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-meruva-ab1420222" height="30" width="40" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/doczsite/doczsite-icon.svg" height="30" width="40" /></a>
+<img align="center" src="https://commons.wikimedia.org/wiki/File:Instagram_logo_2016.svg" height="30" width="40" />
 </p>
 
 
