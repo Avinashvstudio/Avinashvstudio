@@ -19,17 +19,21 @@ Lately I've been contributing to production web platforms (exam simulators, dash
 ### Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vundakoti-avinash-489b2a249/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/vundakoti-avinash-489b2a249/" target="_blank" rel="noreferrer" title="LinkedIn">
+    <img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32" width="32" />
   </a>
-  <a href="https://drive.google.com/file/d/1pxEFufgYKVBYLFhT44j-5gH3tAPQwP-g/view?usp=drive_link" target="_blank" rel="noreferrer">
-    <img align="center" src="https://www.vectorlogo.zone/logos/doczsite/doczsite-icon.svg" alt="Resume" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1pxEFufgYKVBYLFhT44j-5gH3tAPQwP-g/view?usp=drive_link" target="_blank" rel="noreferrer" title="Resume">
+    <img align="center" src="https://cdn.simpleicons.org/googledrive/4285F4" alt="Resume" height="32" width="32" />
   </a>
-  <a href="https://www.instagram.com/avinash_vundakoti/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/avinash_vundakoti/" target="_blank" rel="noreferrer" title="Instagram">
+    <img align="center" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="32" width="32" />
   </a>
-  &nbsp;
-  <a href="mailto:avinashvstudio@gmail.com">avinashvstudio@gmail.com</a>
+  &nbsp;&nbsp;
+  <a href="mailto:avinashvstudio@gmail.com" title="Email">
+    <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="32" width="32" />
+  </a>
 </p>
 
 ---
@@ -37,17 +41,17 @@ Lately I've been contributing to production web platforms (exam simulators, dash
 ### Languages & tools
 
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/></a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/android/3DDC84" alt="Android" width="40" height="40"/></a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="Kotlin" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openjdk/437291" alt="Java" width="40" height="40"/></a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/></a>
+  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="40" height="40"/></a>
+  <a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase" width="40" height="40"/></a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="40" height="40"/></a>
 </p>
 
 ---
@@ -59,5 +63,7 @@ Lately I've been contributing to production web platforms (exam simulators, dash
 - Security hardening, clean UI, and production-ready polish  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinashvstudio&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Avinashvstudio GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avinashvstudio&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub stats" width="420" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=Avinashvstudio&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub streak" width="420" />
 </p>
